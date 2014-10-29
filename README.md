@@ -1,4 +1,4 @@
-# Seajs-Combo-Express
+# seajs-combo-express
 
 combo plugin for express (just for seajs)
 

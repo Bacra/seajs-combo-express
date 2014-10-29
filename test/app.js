@@ -1,3 +1,5 @@
+require('debug').enable('*');
+
 var expr = require('express')
 var app = expr();
 var port = 8022;
