@@ -1,0 +1,34 @@
+{
+  "name": "seajs-combo-express",
+  "version": "0.1.0",
+  "description": "combo plugin for express (just for seajs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bacra/seajs-combo-express.git"
+  },
+  "keywords": [
+    "seajs",
+    "express",
+    "combo"
+  ],
+  "author": "Bacra Woo <bacra.woo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bacra/seajs-combo-express/issues"
+  },
+  "homepage": "https://github.com/Bacra/seajs-combo-express",
+  "dependencies": {
+    "async": "^0.9.0",
+    "debug": "^2.1.0",
+    "etag": "^1.5.0",
+    "fresh": "^0.2.4",
+    "mime": "^1.2.11"
+  },
+  "devDependencies": {
+    "express": "^4.10.1"
+  }
+}
