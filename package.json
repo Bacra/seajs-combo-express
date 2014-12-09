@@ -26,7 +26,8 @@
     "debug": "^2.1.0",
     "etag": "^1.5.0",
     "fresh": "^0.2.4",
-    "mime": "^1.2.11"
+    "mime": "^1.2.11",
+    "underscore": "^1.7.0"
   },
   "devDependencies": {
     "express": "^4.10.1"
