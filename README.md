@@ -22,7 +22,7 @@ app.use(require('seajs-combo-express')(opts));
 
 * cachePath: use cache, and save cache to this path. default: ''
 * separator: combo width this separator between files. default: '\n'
-* root: the path to findup files. defaults: require module dirname
+* root: the path to findup files. defaults: process.cwd()
 * maxage: set source browser cache age. default: 0
 * comboSyntax: as same as [seajs-combo](https://github.com/seajs/seajs-combo/blob/master/src/seajs-combo.js#L11). default:["??", ","]
 * parseFilename: md5 cache filename. default: md5 function
