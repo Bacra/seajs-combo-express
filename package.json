@@ -1,6 +1,6 @@
 {
   "name": "seajs-combo-express",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "combo plugin for express (just for seajs)",
   "main": "index.js",
   "scripts": {
